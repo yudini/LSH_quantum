@@ -307,7 +307,7 @@ if __name__ == "__main__":
     a = 0b11001110001000001011010001111110
     b = 0b100111010011011111110011001100111
 
-    TD = 0
+    TD = 1
     resource_check = 1
 
     #Resource = ClassicalSimulator()
